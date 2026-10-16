@@ -12,7 +12,7 @@ If no argument is provided, ask the user for the title of the new entry.
 
 2. **Read the current README.md** to understand the existing structure, format, and chronological ordering.
 
-3. **Read .claude/CLAUDE.md** for the section format template and lore accuracy rules.
+3. **Read AGENTS.md** for the section format template and lore accuracy rules.
 
 4. **Determine chronological placement.** Based on the in-universe dates, identify exactly where the new section belongs in the README. State the entry that comes before and after it.
 
