@@ -2,6 +2,8 @@
 
 Uma referência abrangente que documenta a história canónica de cada jogo, DLC e projeto de animação CG de Resident Evil, organizada por cronologia dentro do universo fictício. Cada entrada inclui o enredo completo, as personagens principais, as ameaças biológicas e o significado para a lore.
 
+[English](README.md) &nbsp;|&nbsp; [Português (Brasil)](README.pt-br.md) &nbsp;|&nbsp; Português (Portugal) &nbsp;|&nbsp; [Italiano](README.it.md) &nbsp;|&nbsp; [Español](README.es.md)
+
 Os jogos estão ordenados pelo momento em que ocorrem na história, não pela data de lançamento. Os remakes são a fonte preferencial para os detalhes do enredo. Todos os spin-offs canónicos, DLCs e filmes de animação CG estão incluídos. As entradas não canónicas são listadas separadamente para referência.
 
 ## Índice

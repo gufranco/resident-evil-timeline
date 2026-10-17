@@ -2,6 +2,8 @@
 
 A comprehensive reference documenting the canonical story of every Resident Evil game, DLC, and CG animated project, ordered by in-universe chronology. Each entry includes the full plot, key characters, biological threats, and lore significance.
 
+English &nbsp;|&nbsp; [Português (Brasil)](README.pt-br.md) &nbsp;|&nbsp; [Português (Portugal)](README.pt-eu.md) &nbsp;|&nbsp; [Italiano](README.it.md) &nbsp;|&nbsp; [Español](README.es.md)
+
 Games are ordered by when they happen in the story, not when they were released. Remakes are the preferred source for story details. All canonical spin-offs, DLCs, and CG animated films are included. Non-canonical entries are listed separately for reference.
 
 ## Table of Contents
